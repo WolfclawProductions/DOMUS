@@ -2,7 +2,8 @@
 The Digital Open Modular Urban System- a Blender asset pack for archaeological reconstructions 
 
 DOMUS is a Research project created primarily by Noah Chapman under Carleton University's XLab (Supervised by Dr. Shawn Graham). 
-The first phase of research is funded under University of Toronto's CRANE project(Computational Research on the Ancient Near East).
+The first phase of research is funded under University of Toronto's CRANE project(Computational Research on the Ancient Near East). 
+The second phase of development is set to be undertaken at the University College London's Institute of Archaeology.
 
 The DOMUS project is a means of creating digital recreations of ancient urban buildings, intended to be a uniform collection of sized wall blocks, each featuring a single building feature such as doors, windows, and balconies, interspersed with blank walls with different trims and textures. These are intended to be created through referencing architectural and archaeological data, primarily photographs and field drawings. The initial pack was created in the Blender 3D engine.
 
