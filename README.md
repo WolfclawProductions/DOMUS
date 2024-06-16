@@ -1,4 +1,6 @@
 # DOMUS 
+Due to issues with GitLFS, for now you can download the pack here! https://drive.google.com/drive/folders/1xqRlVVjJo1-0Sq3a1GH7Pf0B1zfyAt_z?usp=sharing
+
 The Digital Open Modular Urban System- a Blender asset pack for archaeological reconstructions 
 
 DOMUS is a Research project created primarily by Noah Chapman under Carleton University's XLab (Supervised by Dr. Shawn Graham). 
